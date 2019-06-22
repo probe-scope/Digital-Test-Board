@@ -9,8 +9,8 @@ NP GP1 - Internal Power Plane (Negative, Layer 3)
 G2 - Internal Signal Layer (Positive, Layer 4)
 NP GP2 - Internal Gnd Plane (Negative, Layer 5)
 GTO - Top Overlay (silkscreen)
-NP GTP - Top Paste
-NP GBP - Bottom Paste
+GTP - Top Paste
+GBP - Bottom Paste
 GBO - Bottom Overlay (silkscreen)
 NP DRL - NC Drill (Binary)
 TXT - NC Drill (ASCII)

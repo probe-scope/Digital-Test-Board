@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for PS Digital Test v1.0
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -200,16 +200,16 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=revision
-Value=v1.0
+Name=sheetcount
+Value=4
 
 [Parameter2]
 Name=revisionfull
 Value=v1.0.0
 
 [Parameter3]
-Name=sheetcount
-Value=4
+Name=revision
+Value=v1.0
 
 [Configuration1]
 Name=Sources
@@ -222,7 +222,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for PS Digital Test v1.0
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
